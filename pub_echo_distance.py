@@ -22,3 +22,17 @@ while not rospy.is_shutdown():
   distance = mdev.getSonic()                                    
   pub.publish(distance)                  
   rate.sleep()                                                   
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
