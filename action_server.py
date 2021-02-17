@@ -1,9 +1,4 @@
 #!/usr/bin/env python
-"""
-Created on Thu Nov 19 09:18:35 2020
-
-@author: Marius & Martin
-"""
 
 import rospy
 import actionlib
